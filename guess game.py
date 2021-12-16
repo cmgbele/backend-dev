@@ -70,6 +70,5 @@ while True:
     else: 
         print('\nGood Bye')
         break
-
-
+    
 print( "MAY GOD BLESS YOU AND HAVE A NICE DAY") 
