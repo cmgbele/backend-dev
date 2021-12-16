@@ -73,3 +73,4 @@ while True:
 
 # with open("test.py", "w") as file:
 #     file.write(f"{users}) 
+print( "MAY GOD BLESS YOU AND HAVE A NICE DAY") 
