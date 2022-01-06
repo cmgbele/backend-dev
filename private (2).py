@@ -3,7 +3,7 @@ Trials = 3
 Userpin = 1234 
 
 while Trials != 0:
-    pin = int(input("Please Enter Your 4 digit pin Number: :")) 
+    pin = int(input("Please Enter Your 4 digit pin Number: ")) 
     if pin != Userpin:
         Trials -= 1 
         print("Wrong pin Number,You Have,Trials", Trials,"Trials Left")
@@ -18,9 +18,9 @@ while Trials != 0:
 UserExit = input("Would You Like To Continue? Y/N: ") 
 if UserExit == "N":
     print("Thank You For Using CHRISBANK ")
-    break     
-else: 
-    continue 
+        
+ 
+     
     
 
 
